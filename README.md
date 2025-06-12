@@ -1,6 +1,14 @@
 @logtape/otel: LogTape OpenTelemetry Sink
 =========================================
 
+> [!NOTE]
+> Since *@logtape/otel* package is now maintained along with
+> the *@logtape/logtape* package, this repository is archived and no longer
+> actively maintained.
+>
+> Please refer to the [LogTape] repository for the latest updates and
+> developments.
+
 [![JSR][JSR badge]][JSR]
 [![npm][npm badge]][npm]
 [![GitHub Actions][GitHub Actions badge]][GitHub Actions]
